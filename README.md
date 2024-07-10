@@ -14,7 +14,7 @@ Access the cart page to view, delete products, and see the total sum.
 ## Demo
 Check out the live demo here. [Meteor Merch](https://iamvibhav.github.io/Meteor-Merch/)
 
-Technologies Used
+## Technologies Used
 HTML
 CSS
 JavaScript
